@@ -6,8 +6,4 @@ Enter a command to the bot in the following format:
 Separate commands with a space. For example, dollar ruble 1500.
 
 List of currencies:
-ruble
-dollar
-Euro
-yuan
-yen
+Ruble, Dollar, Euro, Yuan, Yen
