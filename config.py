@@ -1,11 +1,11 @@
 # токен для доступа к HTTP API
-TOKEN = '<token_string>'
+TOKEN = '6027915992:AAHgSlzg98u9YV5XuMbTnzrMU7keidGEKXg'
 
 # список доступных валют
 currency = {
-    'Рубль': 'RUB',
-    'Доллар': 'USD',
-    'Евро': 'EUR',
-    'Юань': 'CNY',
-    'Иена': 'JPY'
+    'рубль': 'RUB',
+    'доллар': 'USD',
+    'евро': 'EUR',
+    'юань': 'CNY',
+    'иена': 'JPY'
 }
