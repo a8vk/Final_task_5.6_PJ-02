@@ -1,5 +1,5 @@
 # токен для доступа к HTTP API
-TOKEN = '6027915992:AAHgSlzg98u9YV5XuMbTnzrMU7keidGEKXg'
+TOKEN = '<token_string>'
 
 # список доступных валют
 currency = {
